@@ -1,4 +1,7 @@
 """Functions for downloading and reading MNIST data."""
+
+#burakduman
+
 from __future__ import print_function
 import gzip
 import os
